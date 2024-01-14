@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanishq Chauhan</h1>
 <h3 align="center">A passionate app developer and tech geek from India</h3>
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
+<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volcandrabuzz&label=Profile%20views&color=0e75b6&style=flat" alt="volcandrabuzz" /> </p>
 
