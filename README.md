@@ -24,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volcandrabuzz&show_icons=true&locale=en" alt="volcandrabuzz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=volcandrabuzz&" alt="volcandrabuzz" /></p>
