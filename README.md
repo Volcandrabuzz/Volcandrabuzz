@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanishq Chauhan</h1>
-<h3 align="center">A passionate full-stack developer from India who enjoys building innovative software solutions</h3>
+<p align="center">
+  <strong>Turning ideas, coffee, and curiosity into working software.</strong><br/>
+  <em>Where logic meets creativity — that’s where I build.</em>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=volcandrabuzz&label=Profile%20views&color=0e75b6&style=flat" alt="volcandrabuzz" />
@@ -10,6 +14,14 @@
   <img alt="Coding" width="600" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 </div>
 
+## 📍 About Me
+- 🔭 **Full-stack dev** by day, **bug creator** by night, fixed by morning
+- 🌱 **Jack of all trades**, **master of some** — debugging the rest
+- 📊 **Trading, finance, and stock market analysis** is my new obsession
+- 💸 Interested in **FinTech products** that make money smarter
+- 💬 Ask me about **Java, Spring, SpringBoot, or any programming dilemma**
+- 😎 Writing maintainable code so future-me doesn't hate present-me
+- ⚡ Fun fact: **I debug in my dreams**
 ## 🔗 Connect with Me
 
 <p align="center">
